@@ -9,7 +9,7 @@ const suggestions = document.querySelectorAll('.suggestion-list .suggestion')
 let userMessage = null;
 let isResponseGenerating = false; 
 
-const API_KEY = 'AIzaSyBMRvjy8tUggPkG6g0v7chPiqW6IB7JZAI';
+const API_KEY = ''; /// place your api key here then run the application
 const API_URL = `https://generativelanguage.googleapis.com/v1/models/gemini-pro:generateContent?key=${API_KEY}`;
  
 
