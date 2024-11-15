@@ -36,4 +36,4 @@ Fork the repository.
 Create a new branch for your changes.
 Submit a pull request with a clear description of your changes.
 
-### The last thing is try to make a better and more optimzied clone AND always keep coding ❤️🙌
+ The last thing is try to make a better and more optimzied clone AND always keep coding ❤️🙌
